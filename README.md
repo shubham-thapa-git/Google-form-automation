@@ -1,7 +1,7 @@
-# Project Name - _Project Author (Change Me)_
+# Google Form automation - _Shubham Thapa (Change Me)_
 
 ## Project Name and Description:
-A concise yet descriptive title and an overview of the project’s purpose.
+Automation code to automate a google form. Contains wrapper methods for all actions. Written in Java.
 
 ## Installation Instructions:
 Clear steps to set up and run the project locally.
